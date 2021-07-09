@@ -1,4 +1,4 @@
-# MPP XML Archiver
+# MPP Archiver
 Saves a Microsoft Project XML file to Mongo and/or local JSON file
 
 # Configuration
