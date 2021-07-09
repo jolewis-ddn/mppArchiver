@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "commander": "^8.0.0",
+    "config": "^3.3.6",
+    "debug": "^4.3.2",
+    "mongodb": "^3.6.10",
+    "pixl-xml": "^1.0.13"
+  },
+  "name": "mpparchiver",
+  "description": "Saves a Microsoft Project XML file to Mongo and/or local JSON file",
+  "version": "0.0.1",
+  "main": "archiver.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolewis-ddn/mppArchiver.git"
+  },
+  "keywords": [
+    "MSProject",
+    "xml",
+    "mongodb",
+    "json",
+    "backup",
+    "snapshot"
+  ],
+  "author": "John D. Lewis <31732476+jolewis-ddn@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jolewis-ddn/mppArchiver/issues"
+  },
+  "homepage": "https://github.com/jolewis-ddn/mppArchiver#readme"
+}
