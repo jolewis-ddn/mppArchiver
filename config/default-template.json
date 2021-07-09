@@ -1,0 +1,15 @@
+{
+    "input": "/path/to/input/file.xml",
+    "mongo": {
+        "user": "USERNAME",
+        "password": "PASSWORD",
+        "host": "HOST",
+        "port": "PORT",
+        "options": "CONNECT_OPTIONS_FOR_URL",
+        "database": "DB",
+        "collection": "COLLECTION"
+    },
+    "json": {
+        "output": "/path/to/json/output/file.json"
+    }
+}
