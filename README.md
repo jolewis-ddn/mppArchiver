@@ -23,8 +23,8 @@ Save this in the config/default.json file:
 * `-w --wipe`: Remove any existing collections before saving the data to Mongo
 
 # Installation and Use
-* `git clone https://www.github.com/jolewis-ddn/mppXmlArchiver`
-* `cd mppXmlArchiver`
+* `git clone https://www.github.com/jolewis-ddn/mppArchiver`
+* `cd mppArchiver`
 * `npm i`
 * `node archive.js` (plus any parameters)
 
